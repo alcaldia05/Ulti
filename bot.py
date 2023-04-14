@@ -1135,6 +1135,6 @@ def upecos(session,csrfToken,path,msg,username, proxy):
     msg.edit(f"**Subido🔽\nNombre: {namefile}\nTamaño:{size} Mb**")
 
 bot.start()
-bot.send_message(1759969205,'**BoT Iniciado**')
+bot.send_message(5416296262,'**BoT Iniciado**')
 print("Iniciado")
 bot.loop.run_forever()
